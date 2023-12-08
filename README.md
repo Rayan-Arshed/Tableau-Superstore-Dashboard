@@ -19,6 +19,7 @@ To experiment with Tableau, create a data story that breaks down the key traits 
 ## Repo Sections
 - Tableau file
 - Dataset
+- Data Source: https://www.kaggle.com/datasets/aditisaxena20/superstore-sales-dataset
 
 ## Dashboard 
 
